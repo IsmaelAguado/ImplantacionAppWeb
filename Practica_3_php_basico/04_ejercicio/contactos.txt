@@ -1,0 +1,7 @@
+Jesus:IT:12345678:asdf:Lectura
+Ismael:IT:12345678:Rio:Lectura
+Jaime:IT:2233445566:Jaen:Coches
+Luis:IT:900800700:Leon:Parque
+Jose:IT:12344321:Asturias:php
+Rafa:Tenista:22112211:Mallorca:Tenis
+Benzema:Player:90909080:Paris:Madrid
